@@ -1,5 +1,5 @@
-### Mission-To-Mars
-# Mission Failure due to Dependency Issues and Environmental Issues
+# Mission-To-Mars
+## Mission Failure due to Dependency Issues and Environmental Issues
 
 Unable to complete project due to issues.  Spent 2+ hours with TA on Saturday and unable to resolove.  Will ask for further assistance.  Problems are"
 
